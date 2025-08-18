@@ -53,6 +53,7 @@ const App = () => {
                 'Spearheaded end-to-end development of high-performance XMPP-Client-Microservice using reactive stack (Spring WebFlux, Spring Reactive Kafka)',
                 'Engineered robust Kafka integration with custom error handlers, fallback mechanisms, and Dead-Letter Topics (DLT)',
                 'Boosted system performance by 40% through asynchronous, non-blocking reactive programming paradigms',
+                'Utilized Gemini pro to increase the productivity up to 40%',
                 'Migrated blocking microservices to non-blocking using Spring WebFlux',
                 'Utilized Gemini Pro to increase productivity by 40%'
             ]
@@ -67,7 +68,9 @@ const App = () => {
                 'Designed complete inbound batch architecture using MIRO and UML diagrams',
                 'Migrated from Java 11 to Java 17 and upgraded Spring Boot and Spring Security to latest versions',
                 'Implemented SOLID principles, TDD, and design patterns to solve memory leak and OutOfMemory issues',
-                'Developed GCP PubSub code for event publishing and subscription'
+                'Developed GCP PubSub code for event publishing and subscription',
+                'Used Switch based factory design pattern, singleton design pattern, façade design pattern, adapter design pattern, MVC pattern in our application and did hexagonal architecture POC',
+                'Developed Spring batch application using parallel flows and tasklet for pushing notification to WebEx'
             ]
         },
         {
@@ -76,8 +79,9 @@ const App = () => {
             period: 'Aug 2022 – Oct 2023',
             project: 'Levi WMS',
             achievements: [
-                'Used Spring Batch for sending notifications in WebEx groups at EOD with parallel flows',
+                'Modern Java Development: Engineered wholesale microservices using Java 17, leveraging features like Records, Text Blocks, and Switch Expressions to build clean, maintainable, and efficient code.',
                 'Implemented dynamic queries using JpaSpecificationExecutor and CriteriaBuilder',
+                'Cloud-Native Architecture: Deployed and managed scalable applications on AWS, utilizing ECS for container orchestration, Lambda for server-less functions, S3 for storage, and RDS (PostgreSQL) for data persistence.',
                 'Developed concurrent Spring Boot Kafka consumer for real-time order data processing',
                 'Containerized microservices using Docker for streamlined development and deployment'
             ]
@@ -130,7 +134,7 @@ const App = () => {
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="flex justify-between items-center py-4">
                         <div className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
-                            Hanumanth R
+                            Hanumanth Ramsetty
                         </div>
 
                         {/* Desktop Navigation */}

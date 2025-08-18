@@ -190,12 +190,12 @@ const App = () => {
                     <div className="mb-8">
                         <img
                             src="https://placehold.co/200x200/6366f1/ffffff?text=HR"
-                            alt="Hanumanth R"
+                            alt="Hanumanth Ramsetty"
                             className="w-32 h-32 rounded-full mx-auto mb-6 border-4 border-purple-500 shadow-2xl"
                         />
                     </div>
                     <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-purple-400 via-pink-400 to-red-400 bg-clip-text text-transparent">
-                        Hanumanth R
+                        Hanumanth Ramsetty
                     </h1>
                     <p className="text-2xl md:text-3xl text-gray-300 mb-8 font-light">
                         Software Engineer

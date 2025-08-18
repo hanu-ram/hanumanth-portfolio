@@ -37,7 +37,7 @@ const App = () => {
     };
 
     const skills = [
-        'Core Java, Java 8 & 17', 'Spring Boot', 'Spring Security', 'Spring Batch', 'Microservices',
+        'Core Java, Java 8, 17 & 21', 'Spring Boot', 'Spring Security', 'Spring Batch', 'Microservices', 'Prompt Engineering',
         'Reactive Programming', 'Confluent Kafka', 'PostgreSQL', 'Docker', 'AWS', 'Google Cloud',
         'Jenkins', 'Tekton', 'React JS', 'JavaScript', 'Junit & Mockito', 'OAUTH 2', 'Terraform',
         'Apollo GraphQL', 'SOLID Principles', 'Design Patterns', 'TDD', 'Virtual Threads'

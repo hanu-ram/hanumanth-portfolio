@@ -41,7 +41,7 @@ const App = () => {
         'Reactive Programming', 'Confluent Kafka', 'PostgreSQL', 'Docker', 'AWS', 'Google Cloud',
         'Jenkins', 'Tekton', 'React JS', 'JavaScript', 'Junit & Mockito', 'OAUTH 2', 'Terraform',
         'Apollo GraphQL', 'SOLID Principles', 'Design Patterns', 'TDD', 'Virtual Threads', 'Dynatrace', 'FOSSA',
-        'Checkmarx', 'Intellij Ultimate', 'Debugging & Troubleshooting', 'Agentic AI'
+        'Checkmarx', 'Intellij Ultimate', 'Debugging & Troubleshooting', 'Agentic AI', 'Model Context Protocol (MCP)'
     ];
 
     const experiences = [
